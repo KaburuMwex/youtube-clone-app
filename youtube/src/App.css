@@ -1,0 +1,22 @@
+.navbar-top{
+  font-family: 'Monoton', cursive ;
+font-family: 'Saira Stencil One', cursive !important ;
+text-align: left;
+border-radius: 10px;
+box-shadow: 2px 5px 2px 0px;
+color:red !important;
+
+}
+
+.searchbar{
+  width: 105rem;
+}
+
+.videodetails{
+  width: 105rem;
+  margin-top:100px;
+}
+.videodes{
+  width: 105rem;
+  margin-top:920px;
+}
